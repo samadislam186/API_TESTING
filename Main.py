@@ -9,4 +9,4 @@ URI = API_STRING + API_KEY
 
 r = requests.get(URI)
 
-print(r)
+print(r.json())
