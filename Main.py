@@ -14,6 +14,6 @@ print(r.json())
 
 locationKey=r.json()
 
-print(locationKey["LocationKey"])
+#print(locationKey["LocationKey"])
 
 print("Hello world")
