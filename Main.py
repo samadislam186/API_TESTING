@@ -16,4 +16,4 @@ locationKey=r.json()
 
 #print(locationKey["LocationKey"])
 
-print("Hello world")
+print("GITHUB WEBHOOK")
